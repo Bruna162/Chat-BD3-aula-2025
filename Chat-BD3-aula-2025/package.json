@@ -1,13 +1,12 @@
-
-
-
 {
-  "scripts":{
-    "start" : "nodemon index.js"
+  "scripts": {
+    "start": "nodemon index.js"
   },
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.1.0",
+    "mongoose": "^8.14.3",
+    "mongose": "^0.0.2-security",
     "socket.io": "^4.8.1"
   },
   "devDependencies": {
